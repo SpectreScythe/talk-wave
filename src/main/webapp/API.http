@@ -1,0 +1,4 @@
+GET http://localhost:8080/TalkWave_war_exploded/api-get-suggested?senderID=13
+
+
+

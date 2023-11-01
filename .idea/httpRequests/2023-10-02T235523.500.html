@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head><title>HTTP Status 500 ? Internal Server Error</title>
+    <style type="text/css">body {
+        font-family: Tahoma, Arial, sans-serif;
+    }
+
+    h1, h2, h3, b {
+        color: white;
+        background-color: #525D76;
+    }
+
+    h1 {
+        font-size: 22px;
+    }
+
+    h2 {
+        font-size: 16px;
+    }
+
+    h3 {
+        font-size: 14px;
+    }
+
+    p {
+        font-size: 12px;
+    }
+
+    a {
+        color: black;
+    }
+
+    .line {
+        height: 1px;
+        background-color: #525D76;
+        border: none;
+    }</style>
+</head>
+<body><h1>HTTP Status 500 ? Internal Server Error</h1>
+<hr class="line"/>
+<p><b>Type</b> Exception Report</p>
+<p><b>Message</b> Unrecognized field &quot;sender&quot; (class com.talkwave.User), not marked as ignorable (0 known
+    properties: ])</p>
+<p><b>Description</b> The server encountered an unexpected condition that prevented it from fulfilling the request.</p>
+<p><b>Exception</b></p>
+<pre>com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field &quot;sender&quot; (class com.talkwave.User), not marked as ignorable (0 known properties: ])
+ at [Source: (String)&quot;{  &quot;sender&quot;: &quot;oaish&quot;,  &quot;receiver&quot;: &quot;dawg&quot;,  &quot;message&quot;: &quot;abcd&quot;,  &quot;timestamp&quot;: &quot;12:19 AM&quot;}&quot;; line: 1, column: 15] (through reference chain: com.talkwave.User[&quot;sender&quot;])
+	com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException.from(UnrecognizedPropertyException.java:61)
+	com.fasterxml.jackson.databind.DeserializationContext.handleUnknownProperty(DeserializationContext.java:1138)
+	com.fasterxml.jackson.databind.deser.std.StdDeserializer.handleUnknownProperty(StdDeserializer.java:2224)
+	com.fasterxml.jackson.databind.deser.BeanDeserializerBase.handleUnknownProperty(BeanDeserializerBase.java:1709)
+	com.fasterxml.jackson.databind.deser.BeanDeserializerBase.handleUnknownVanilla(BeanDeserializerBase.java:1687)
+	com.fasterxml.jackson.databind.deser.BeanDeserializer.vanillaDeserialize(BeanDeserializer.java:320)
+	com.fasterxml.jackson.databind.deser.BeanDeserializer.deserialize(BeanDeserializer.java:177)
+	com.fasterxml.jackson.databind.deser.DefaultDeserializationContext.readRootValue(DefaultDeserializationContext.java:323)
+	com.fasterxml.jackson.databind.ObjectMapper._readMapAndClose(ObjectMapper.java:4825)
+	com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3772)
+	com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3740)
+	com.talkwave.PostServlet.doPost(PostServlet.java:38)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:555)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+	org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+</pre>
+<p><b>Note</b> The full stack trace of the root cause is available in the server logs.</p>
+<hr class="line"/>
+<h3>Apache Tomcat/9.0.80</h3></body>
+</html>

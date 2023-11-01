@@ -1,0 +1,84 @@
+
+.loader {
+    position: absolute;
+    inset: 0;
+    z-index: 2000;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--primary-chat-color);
+    background-image: url("../img/doodle.png");
+}
+
+.loader > div {
+    box-shadow: 0 0 0.5rem;
+}
+
+.loader-icon {
+    border-radius: 8px 8px 8px 0;
+    background-color: var(--primary-color);
+    display: inline-block;
+    text-align: left;
+    padding: 10px;
+    max-width: 70%;
+}
+
+.dot {
+    width: 20px;
+    height: 20px;
+    background-color: var(--primary-chat-color);
+    display: inline-block;
+    border-radius: 100%;
+    animation: shrink_grow 1.2s ease infinite;
+    transform: scale(0);
+}
+
+.dot-2 {
+    animation-delay: 0.2s;
+}
+
+.dot-3 {
+    animation-delay: 0.4s;
+}
+
+@keyframes shrink_grow {
+    0% {
+        transform: scale(0);
+    }
+
+    50% {
+        transform: scale(1);
+    }
+
+    100% {
+        transform: scale(0);
+    }
+}
+
+.loader-logo {
+    background-repeat: no-repeat;
+    z-index: 1000;
+    padding: 1rem;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    transition: 0.5s ease;
+    justify-content: center;
+    background-size: cover;
+    background-color: var(--primary-chat-color);
+    background-image: url("../img/black-felt.png");
+}
+
+.loader-logo h2 {
+    color: white;
+    font-size: 5rem;
+    font-family: "Overlock SC", cursive !important;
+}
+
+.loader-logo p {
+    font-size: 1.5rem;
+    color: #aaa;
+}

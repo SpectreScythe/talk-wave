@@ -1,0 +1,106 @@
+.sidebar {
+  display: flex;
+  padding: 10px 5px;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.sb-top,
+.sb-bottom {
+  position: relative;
+  width: fit-content;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.icon {
+  width: 40px;
+  height: 35px;
+  background-size: 50% 50%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  border-radius: 5px;
+}
+
+.icon:hover,
+.icon:focus {
+  cursor: pointer;
+  background-color: var(--icon-hover-color);
+}
+
+.chat-icon,
+.user-icon {
+  justify-self: flex-start;
+}
+
+.settings-icon,
+.profile-icon {
+  justify-self: flex-end;
+}
+
+.profile-icon {
+  width: 40px;
+  height: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.profile-icon img {
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.pill {
+  position: absolute;
+  top: 18px;
+  left: 0;
+  width: 3px;
+  height: 18px;
+  border-radius: 9px;
+  background-color: var(--primary-color);
+  translate: -50% -50%;
+}
+
+.sb-top .icon:active .pill {
+  display: initial;
+}
+
+.icon-active {
+  background-color: var(--icon-hover-color);
+}
+
+.chat-icon > .pill {
+  display: initial;
+}
+
+@keyframes pill-down {
+  0% {
+    top: 18px;
+  }
+  50% {
+    height: 30px;
+  }
+  100% {
+    height: 18px;
+    top: 57px;
+  }
+}
+
+@keyframes pill-up {
+  0% {
+    top: 57px;
+  }
+  50% {
+    height: 30px;
+  }
+  100% {
+    height: 18px;
+    top: 18px;
+  }
+}

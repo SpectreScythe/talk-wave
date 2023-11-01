@@ -1,0 +1,576 @@
+GET http://localhost:8080/TalkWave_war_exploded/api-get-suggested?senderID=13
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=88377BC74E093441B5B26C6960656E0A
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-12T203612.200.json
+
+###
+
+GET http://localhost:8080/TalkWave_war_exploded/api-get-suggested?senderID=11
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=88377BC74E093441B5B26C6960656E0A
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-12T203429.200.json
+
+###
+
+GET http://localhost:8080/TalkWave_war_exploded/api-get-suggested?senderID=11
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=88377BC74E093441B5B26C6960656E0A
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-12T203252.200.json
+
+###
+
+GET http://localhost:8080/TalkWave_war_exploded/api-validate-username?username=oaish&password=qazi2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=88377BC74E093441B5B26C6960656E0A
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-08T223549.200.json
+
+###
+
+GET http://localhost:8080/TalkWave_war_exploded/api-validate-username?username=oaish&password=qazi2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=88377BC74E093441B5B26C6960656E0A
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-08T223543.200.json
+
+###
+
+GET http://localhost:8080/TalkWave_war_exploded/api-validate-username?username=oaish&password=qazi
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=88377BC74E093441B5B26C6960656E0A
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-08T223537.200.json
+
+###
+
+GET http://localhost:8080/TalkWave_war_exploded/api-validate-username?username=oaish
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=88377BC74E093441B5B26C6960656E0A
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-08T223522.200.json
+
+###
+
+GET http://localhost:8080/TalkWave_war_exploded/api-validate-username?username=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=88377BC74E093441B5B26C6960656E0A
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-08T223458.200.json
+
+###
+
+GET http://localhost:8080/TalkWave_war_exploded/api-validate-username?username=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=88377BC74E093441B5B26C6960656E0A
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET http://localhost:8080/TalkWave_war_exploded/api-validate-username?username=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=88377BC74E093441B5B26C6960656E0A
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET http://16.170.66.215:8080/TalkWave/api-get-friends?senderID=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-06T005059.200.json
+
+###
+
+GET http://16.170.66.215:8080/TalkWave/api-get-friends?senderID=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET http://localhost:8080/TalkWave_war_exploded/api-get-friends?senderID=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=88377BC74E093441B5B26C6960656E0A
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-03T230614.200.json
+
+###
+
+GET http://localhost:8080/TalkWave_war_exploded/api-get-chat-msg?senderID=1&receiverID=2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=88377BC74E093441B5B26C6960656E0A
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-03T225835.200.json
+
+###
+
+GET http://localhost:8080/TalkWave_war_exploded/api-get-chat-msg?senderID=1&receiverID=2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=88377BC74E093441B5B26C6960656E0A
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-03T225318.200.txt
+
+###
+
+GET http://localhost:8080/TalkWave_war_exploded/api-get-chat-msg?senderID=1&receiverID=2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=88377BC74E093441B5B26C6960656E0A
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-03T225247.200.txt
+
+###
+
+GET http://localhost:8080/TalkWave_war_exploded/api-get?senderID=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=88377BC74E093441B5B26C6960656E0A
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-03T222054.200.json
+
+###
+
+GET http://localhost:8080/TalkWave_war_exploded/api-get?senderID=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=88377BC74E093441B5B26C6960656E0A
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-03T220541.200.json
+
+###
+
+GET http://localhost:8080/TalkWave_war_exploded/api-get?senderID=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=88377BC74E093441B5B26C6960656E0A
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-03T220151.200.json
+
+###
+
+GET http://localhost:8080/TalkWave_war_exploded/api-get?senderID=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=88377BC74E093441B5B26C6960656E0A
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-03T215132.200.json
+
+###
+
+GET http://localhost:8080/TalkWave_war_exploded/jsp?senderID=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=9C9467BB5D657B55DE58ECDF7303BD1C
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-03T214425.200.html
+
+###
+
+GET http://localhost:8080/TalkWave_war_exploded/api-get?senderID=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=9C9467BB5D657B55DE58ECDF7303BD1C
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-03T212820.200.json
+
+###
+
+GET http://localhost:8080/TalkWave_war_exploded/api-get?senderID=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=9C9467BB5D657B55DE58ECDF7303BD1C
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-03T212658.200.json
+
+###
+
+GET http://localhost:8080/TalkWave_war_exploded/api-get?senderID="1"
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=9C9467BB5D657B55DE58ECDF7303BD1C
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-03T212617.200.json
+
+###
+
+GET http://localhost:8080/TalkWave_war_exploded/api-get?senderID="1"
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=9C9467BB5D657B55DE58ECDF7303BD1C
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-03T212454.200.json
+
+###
+
+GET http://localhost:8080/TalkWave_war_exploded/api-get?senderID="1"
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=9C9467BB5D657B55DE58ECDF7303BD1C
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-03T212221.200.json
+
+###
+
+GET http://localhost:8080/TalkWave_war_exploded/jsp
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-03T154835.200.html
+
+###
+
+POST http://localhost:8080/TalkWave_war_exploded/api-post
+Content-Type: application/json
+Content-Length: 97
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "senderID": "oaish",
+  "receiverID": "dawg",
+  "message": "abcd",
+  "timestamp": "12:19 AM"
+}
+
+<> 2023-10-03T005856.200.json
+
+###
+
+POST http://localhost:8080/TalkWave_war_exploded/api-post
+Content-Type: application/json
+Content-Length: 97
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "senderID": "oaish",
+  "receiverID": "dawg",
+  "message": "abcd",
+  "timestamp": "12:19 AM"
+}
+
+<> 2023-10-03T005736.200.json
+
+###
+
+POST http://localhost:8080/TalkWave_war_exploded/api-post
+Content-Type: application/json
+Content-Length: 97
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "senderID": "oaish",
+  "receiverID": "dawg",
+  "message": "abcd",
+  "timestamp": "12:19 AM"
+}
+
+<> 2023-10-03T005237.200.json
+
+###
+
+POST http://localhost:8080/TalkWave_war_exploded/api-post
+Content-Type: application/json
+Content-Length: 97
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "senderID": "oaish",
+  "receiverID": "dawg",
+  "message": "abcd",
+  "timestamp": "12:19 AM"
+}
+
+<> 2023-10-03T005148.200.json
+
+###
+
+POST http://localhost:8080/TalkWave_war_exploded/api-post
+Content-Type: application/json
+Content-Length: 97
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "senderID": "oaish",
+  "receiverID": "dawg",
+  "message": "abcd",
+  "timestamp": "12:19 AM"
+}
+
+<> 2023-10-03T005139.200.json
+
+###
+
+POST http://localhost:8080/TalkWave_war_exploded/api-post
+Content-Type: application/json
+Content-Length: 97
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "senderID": "oaish",
+  "receiverID": "dawg",
+  "message": "abcd",
+  "timestamp": "12:19 AM"
+}
+
+<> 2023-10-03T004503.200.json
+
+###
+
+POST http://localhost:8080/TalkWave_war_exploded/api-post
+Content-Type: application/json
+Content-Length: 97
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "senderID": "oaish",
+  "receiverID": "dawg",
+  "message": "abcd",
+  "timestamp": "12:19 AM"
+}
+
+<> 2023-10-03T004245.500.html
+
+###
+
+POST http://localhost:8080/TalkWave_war_exploded/api-post
+Content-Type: application/json
+Content-Length: 97
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "senderID": "oaish",
+  "receiverID": "dawg",
+  "message": "abcd",
+  "timestamp": "12:19 AM"
+}
+
+<> 2023-10-03T003241.500.html
+
+###
+
+POST http://localhost:8080/TalkWave_war_exploded/api-post
+Content-Type: application/json
+Content-Length: 97
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "senderID": "oaish",
+  "receiverID": "dawg",
+  "message": "abcd",
+  "timestamp": "12:19 AM"
+}
+
+<> 2023-10-03T003226.404.html
+
+###
+
+POST http://localhost:8080/TalkWave_war_exploded/api-post
+Content-Type: application/json
+Content-Length: 97
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "senderID": "oaish",
+  "receiverID": "dawg",
+  "message": "abcd",
+  "timestamp": "12:19 AM"
+}
+
+<> 2023-10-02T235556.500.html
+
+###
+
+POST http://localhost:8080/TalkWave_war_exploded/api-post
+Content-Type: application/json
+Content-Length: 93
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "sender": "oaish",
+  "receiver": "dawg",
+  "message": "abcd",
+  "timestamp": "12:19 AM"
+}
+
+<> 2023-10-02T235523.500.html
+
+###
+
+POST http://localhost:8080/TalkWave_war_exploded/api-post
+Content-Type: application/json
+Content-Length: 93
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "sender": "oaish",
+  "receiver": "dawg",
+  "message": "abcd",
+  "timestamp": "12:19 AM"
+}
+
+<> 2023-10-02T235352.500.html
+
+###
+
+POST http://localhost:8080/TalkWave_war_exploded/api-post
+Content-Type: application/json
+Content-Length: 93
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "sender": "oaish",
+  "receiver": "dawg",
+  "message": "ASDF",
+  "timestamp": "12:19 AM"
+}
+
+<> 2023-10-02T235141.500.html
+
+###
+
+POST http://localhost:8080/TalkWave_war_exploded/api-post
+Content-Type: application/json
+Content-Length: 93
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "sender": "oaish",
+  "receiver": "dawg",
+  "message": "ASDF",
+  "timestamp": "12:19 AM"
+}
+
+<> 2023-10-02T234810.500.json
+
+###
+
+POST http://localhost:8080/TalkWave_war_exploded/api-post
+Content-Type: application/json
+Content-Length: 93
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "sender": "oaish",
+  "receiver": "dawg",
+  "message": "ASDF",
+  "timestamp": "12:19 AM"
+}
+
+<> 2023-10-02T234736.405.html
+
+###
+
+POST http://localhost:8080/TalkWave_war_exploded/api-post
+Content-Type: application/json
+Content-Length: 93
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "sender": "oaish",
+  "receiver": "dawg",
+  "message": "ASDF",
+  "timestamp": "12:19 AM"
+}
+
+<> 2023-10-02T234717.405.html
+
+###
+
+GET http://localhost:8080/TalkWave_war_exploded/api-get
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T234604.200.json
+
+###
+
+POST http://localhost:8080/TalkWave_war_exploded/api-post
+Content-Type: application/json
+Content-Length: 93
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "sender": "oaish",
+  "receiver": "dawg",
+  "message": "ASDF",
+  "timestamp": "12:19 AM"
+}
+
+<> 2023-10-02T234455.405.html
+
+###
+

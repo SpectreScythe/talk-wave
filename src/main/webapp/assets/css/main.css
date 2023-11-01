@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Overlock+SC&family=Poppins:wght@200;300;400;500;600;700&display=swap');
+
+:root {
+    --primary-color: #00a884;
+    --sidebar-color: #202020;
+    --secondary-color: #373737;
+    --primary-text-color: white;
+    --icon-hover-color: #292929;
+    --btn-hover-color: #353535;
+    --container-color: #272727;
+    --search-bar-dark: #393939;
+    --user-card-focus: #4d4d4d;
+    --user-card-hover: #343434;
+    --primary-chat-color: #025c4c;
+    --secondary-text-color: #b8b8b8;
+    --search-bar--focus-dark: #212121;
+}
+
+/*LightT Gray: 9d9d9d*/
+/*DarkT Gray: 7a7a7a*/
+
+* {
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background: var(--sidebar-color);
+}
+
+main {
+    width: 100%;
+    height: 100%;
+    display: grid;
+    grid-template-columns: 50px 380px 1fr;
+}
+
+.sidebar {
+    background-color: var(--sidebar-color);
+    border-right: 1px solid #1c1c1c;
+}
+
+.users-container {
+    background-color: var(--container-color);
+    border-right: 1px solid #1c1c1c;
+}
+
+.chat-container {
+    background-color: var(--container-color);
+}
+
+::-webkit-scrollbar {
+    width: 3px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #9f9f9f;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: #9f9f9f;
+}
+
+::-webkit-scrollbar-track {
+    background-color: transparent;
+}
